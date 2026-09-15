@@ -4,9 +4,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=🌸+Creating+your+haiku...;✍️+5+%E2%80%93+7+%E2%80%93+5+syllables;🤖+Powered+by+AI;✨+Python+%2B+Creativity+%2B+AI" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B8+Creating+your+haiku...;%E2%9C%8D%EF%B8%8F+5-%E2%80%937-%E2%80%935+syllables;%F0%9F%A4%96+Powered+by+AI;%E2%9C%A8+Python+%2B+Creativity+%2B+AI)](https://git.io/typing-svg)
 
-<br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Stanford](https://img.shields.io/badge/Stanford-Code%20in%20Place-8C1515?style=for-the-badge&logo=stanford&logoColor=white)
